@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @357Yadav
 - 👀 I’m interested in cricket.
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning  java, c html python and web development
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by sujityadav6809@gmail.com
 
